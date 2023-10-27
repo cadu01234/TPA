@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class ex1 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		final int TAM = 8;
+		final int TAM = 20;
 		int a[], b[], i, l, j=0, k=0, p=0, m=0, result;
 		a = new int [TAM];
 		b = new int [TAM];
