@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class ex5 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int TAM = 5;
+        int TAM = 15;
         int[] A = new int[TAM];
         int[] B = new int[TAM];
         
