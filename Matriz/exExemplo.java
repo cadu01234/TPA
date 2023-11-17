@@ -1,6 +1,6 @@
 package matriz;
 import java.util.Random;
-public class ex.E {
+public class exExemplo {
 	public static void main(String[] args) {
 		int v[][] = new int[3][3];
 		int i, j;
